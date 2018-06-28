@@ -37,9 +37,9 @@
 
 ### Code
 
-| 代码              | 备注                    | 链接                            |
-| ----------------- | ----------------------- | ------------------------------- |
-| relativelyAverage | java 的 int和double版本 | [java](/relativelyAverage.java) |
+| 代码              | 备注                    | 链接                           |
+| ----------------- | ----------------------- | ------------------------------ |
+| relativelyAverage | java 的 int和double版本 | [java](relativelyAverage.java) |
 
 ```java
 /**
